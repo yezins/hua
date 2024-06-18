@@ -1,7 +1,7 @@
 <?php
-	!defined('DB_HOST') && define('DB_HOST','101.43.64.111');
+	!defined('DB_HOST') && define('DB_HOST','101.43.64.111:43306');
 	!defined('DB_USER') && define('DB_USER','root');
-	!defined('DB_PASS') && define('DB_PASS','root@qhcy_2022!');
+	!defined('DB_PASS') && define('DB_PASS','Uyq1NhTg');
 	!defined('DB_NAME') && define('DB_NAME','QHCY');
 	!defined('DB_CHARSET') && define('DB_CHARSET','utf8');
 $sex=array('保密','男','女');
